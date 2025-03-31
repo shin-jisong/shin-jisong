@@ -9,8 +9,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=shin-jisong&show_icons=true&theme=graywhite" alt="GitHub stats" height="200">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shin-jisong&theme=graywhite" alt="Top Langs" height="200">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshin-jisong%2Fhit-counter&count_bg=%23A9A9A9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 </div>
 
 ### 🔥History
